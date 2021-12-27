@@ -1,4 +1,14 @@
-### Hi there 👋
+# Kian McKenna
+
+### 14-year-old developer hobbyist and philomath
+### Technologies I know (enough): Rust, Python, JavaScript, Node.js, Vue, Svelte, MongoDB, and StackOverflow (basically a skill)
+
+- #### 📲 I'm currently working on <a href="https://github.com/cowboycodr/cards">```Cards: the in-progress, open-source, simplistic retake of social media```</a>.
+- #### 📖 I'm currently learning ```rustlang: a high-performance, memory-safe programming language```.
+- #### 🧑‍🤝‍🧑 I'm looking to collaborate on ```any project with purpose and meaning```.
+- #### ❓ Ask me about ```anything related to computers, programming, or anything I don't know```.
+- #### 📧 Reach me at ```kiansonofkenna@gmail.com```.
+- #### 🧠 Fun fact about me: ```I am motivated by curiosity, exclusively```.
 
 <!--
 **cowboycodr/cowboycodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
