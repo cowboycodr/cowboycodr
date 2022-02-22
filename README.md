@@ -3,6 +3,8 @@
 ### 14-year-old developer hobbyist and philomath
 ### Technologies I know (enough): Rust, Python, JavaScript, Node.js, Vue, Svelte, MongoDB, and StackOverflow (basically a skill)
 
+> Do what you are passionate about, persistently. And all of your needs will be provided from it.
+
 - #### 📲 I'm currently working on <a href="https://github.com/cowboycodr/choam">```Choam. A python project manager which "automates the nooks and crannies of python"```</a>.
 - #### 📖 I'm currently learning ```GitHub actions```.
 - #### 🧑‍🤝‍🧑 I'm looking to collaborate on ```any project I find interesting```.
