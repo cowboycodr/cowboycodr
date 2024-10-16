@@ -7,3 +7,5 @@ I have experience in the following technologies:
 - Python
 - Svelte/Kit
 - Next.js
+
+I'm also available for work.
