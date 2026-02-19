@@ -1,6 +1,6 @@
 ### Kian McKenna
 
-An 18 year old full stack web developer & designer in Kansas City. Currently working on [KianKit](https://kit.fromkian.com), and [Skittle](https://github.com/cowboycodr/skittle).
+A 19 year old full stack web developer & designer in Kansas City. Currently studying Mechanical Engineering at the University of Kansas.
 
 I have experience in the following technologies:
 - JavaScript (Node.js)
